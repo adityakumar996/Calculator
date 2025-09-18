@@ -1,0 +1,29 @@
+.box{
+    height: 600px;
+    width: 500px;
+    border: 2px solid black;
+    background-color :rgb(82, 150, 196);
+    border: 2px solid black;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: 500px;
+}
+.cal{
+    margin-left: 630px;
+    font-size: 40px;
+}
+.parent{
+    margin-top: 230px;
+}
+.new{
+    height: 60px;
+    width: 120px;
+}
+.int1{
+    margin-left: 80px;
+    height: 30px;
+    width: 300px;
+    margin-top: 30px;
+}
